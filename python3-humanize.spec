@@ -6,7 +6,7 @@ Summary:	Python 3 humanize utilities
 Summary(pl.UTF-8):	Narzędzia Pythona 3 humanize
 Name:		python3-humanize
 Version:	4.9.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/humanize/
